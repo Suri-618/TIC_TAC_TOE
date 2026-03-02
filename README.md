@@ -52,3 +52,34 @@ TIC_TAC_TOE/
 │
 ├── main.cpp
 └── README.md
+
+5. Compile & Run from your IDE (MainFSA.java)
+
+---
+
+## 🔥 Future Enhancements
+
+✔ Add **Single-player mode vs computer**  
+✔ **Implement AI using Minimax algorithm**  
+✔ **Create a GUI version (e.g. using SDL or Qt)**  
+✔ Add **score tracking**
+✔ Add **undo/redo feature**
+
+---
+
+## 📌 Learning Outcomes
+
+- Desktop GUI with Java Swing  
+- Multi-screen navigation  
+- Login + authentication  
+- MySQL Database interaction with JDBC  
+- Marking and viewing attendance
+
+---
+
+## 💻 Author
+
+**Suri**  
+GitHub: https://github.com/Suri-618
+
+⭐ If you like this project, give it a star!
